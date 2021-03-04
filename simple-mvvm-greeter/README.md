@@ -2,6 +2,8 @@
 
 Very simple JavaFX FXML application that uses the MVVM (Model-View-ViewModel) pattern.
 
+![GUI](images/gui.png)
+
 Model:
 * GreetingModel
 
