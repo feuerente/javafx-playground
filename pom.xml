@@ -17,6 +17,7 @@
         <module>mvvm-employment-request</module>
         <module>mvvm-url-test</module>
         <module>dialog-connection</module>
+        <module>simple-mvvm-greeter</module>
     </modules>
 
     <properties>
