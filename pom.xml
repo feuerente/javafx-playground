@@ -18,7 +18,6 @@
         <module>mvvm-url-test</module>
         <module>dialog-connection</module>
         <module>simple-mvvm-greeter</module>
-        <module>user-mvvm-dao</module>
     </modules>
 
     <properties>
